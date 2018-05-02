@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.nordicosenadopcion.com	TRUE	/	FALSE	1999999999	__cfduid	dc3e0e2258703a63f7e0d5be04d8767f21525253372
+

@@ -1,0 +1,630 @@
+HTTrack3.49-2 launched on Wed, 02 May 2018 11:29:31 at old.nordicosenadopcion.com
+(httrack old.nordicosenadopcion.com )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:50:09	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/pattern.gif (from old.nordicosenadopcion.com/)
+11:52:57	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/node/themes/nea_bartik/js/jcarousellite/arrow_left.png (from old.nordicosenadopcion.com/node/1)
+11:52:57	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/node/themes/nea_bartik/js/jcarousellite/arrow_right.png (from old.nordicosenadopcion.com/node/1)
+11:52:57	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/node/pattern.gif (from old.nordicosenadopcion.com/node/1)
+11:52:57	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/node/cachorros (from old.nordicosenadopcion.com/node/1)
+11:52:57	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/node/jovenes (from old.nordicosenadopcion.com/node/1)
+11:52:57	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/node/adultos (from old.nordicosenadopcion.com/node/1)
+11:52:57	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/node/adoptados (from old.nordicosenadopcion.com/node/1)
+11:52:57	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/node/arcoiris (from old.nordicosenadopcion.com/node/1)
+11:52:57	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/node/sites/default/files/pictures/map.png (from old.nordicosenadopcion.com/node/1)
+11:52:57	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/node/sites/default/files/pictures/map-hover.png (from old.nordicosenadopcion.com/node/1)
+11:52:57	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/has_js=1; path=/ (from old.nordicosenadopcion.com/sites/default/files/js/js_m1OCmgU-ZAMznppomtRk60DBslOowUbVG4K6gMKdwCM.js)
+12:01:31	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/noticias/P1270004.JPG
+12:03:25	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/sites/default/files/1-g_0.jpg (from old.nordicosenadopcion.com/guias)
+12:03:46	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/bito (7).JPG
+12:03:46	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/bito (7).JPG
+12:03:46	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/bito.JPG
+12:03:46	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/bito.JPG
+12:03:46	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/bito7.JPG
+12:03:46	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/bito7.JPG
+12:03:47	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Tex 04.JPG
+12:03:47	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Tex 04.JPG
+12:03:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Furia y colmillo (2).JPG
+12:03:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Furia y colmillo (2).JPG
+12:30:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/GREY (1).JPG
+12:30:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/GREY (1).JPG
+12:30:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/grey (5).JPG
+12:30:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/grey (5).JPG
+12:30:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/grey astorga (1).JPG
+12:30:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/grey astorga (1).JPG
+12:30:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/grey (6).JPG
+12:30:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/grey (6).JPG
+12:30:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Grey marzo 2016 (3).JPG
+12:30:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Grey marzo 2016 (3).JPG
+12:30:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/noticias/P1270004.JPG
+12:30:56	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/comment/ (from old.nordicosenadopcion.com/noticia/¿por-qué-adoptar-un-perro-adulto)
+12:30:56	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/comment/reply// (from old.nordicosenadopcion.com/noticia/¿por-qué-adoptar-un-perro-adulto)
+12:37:05	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_0119.JPG
+12:41:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P7160078.JPG
+12:47:47	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/148-4812_IMG (ZEUS).JPG
+12:48:11	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Inu3.JPG
+13:05:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/ALBIN AGRADECE CON BESOS..JPG
+13:05:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/ALBIN AGRADECE CON BESOS..JPG
+13:05:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/ALBIN BAILARIN.JPG
+13:05:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/ALBIN BAILARIN.JPG
+13:05:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/ALBIN SIGUE ESPERANDO UN ANGEL.JPG
+13:05:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/ALBIN SIGUE ESPERANDO UN ANGEL.JPG
+13:05:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/ALBIN SOLO QUIERE CARICIAS.JPG
+13:05:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/ALBIN SOLO QUIERE CARICIAS.JPG
+13:10:41	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/100_2820.JPG
+13:12:11	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC01807.JPG
+13:14:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC00930.JPG
+13:15:28	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/633927149052088024-Simba.JPG
+13:18:14	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_0587.JPG
+13:18:38	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/altea11.JPG
+13:25:41	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/RINGO-set.JPG
+13:25:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/lisa2_0.JPG
+13:26:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/sapporo5.JPG
+13:27:37	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_0119.JPG
+13:27:37	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_0122.JPG
+13:27:37	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_0122.JPG
+13:27:37	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_0123.JPG
+13:27:37	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_0123.JPG
+13:27:37	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_0124.JPG
+13:27:37	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_0124.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P7160078.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P7150035.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P7150035.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P7160003.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P7160003.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P7160031.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P7160031.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P7160035.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P7160035.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P7160053.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P7160053.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P7160091.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P7160091.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P7160092.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P7160092.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/148-4812_IMG (ZEUS).JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/118-1877_IMG (ZEUS).JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/118-1877_IMG (ZEUS).JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/118-1879_IMG (ZEUS).JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/118-1879_IMG (ZEUS).JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Inu3.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Inu1.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Inu1.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Inu2.JPG
+13:27:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Inu2.JPG
+13:34:02	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/749-12-NEV_g3773.JPG
+13:37:19	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/CIMG3235.JPG
+13:39:03	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_9636.JPG
+13:40:07	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/akatai 2 carol.JPG
+13:40:07	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/akatai 2 carol.JPG
+13:43:39	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Brutus_02.JPG
+13:46:13	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC01785.JPG
+13:49:39	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_2279 Murfy (3).JPG
+13:50:01	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_0065-1.JPG
+13:51:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Niño 9_0.JPG
+13:52:37	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/yuste brazos.JPG
+13:55:05	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PA190575.JPG
+13:58:23	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PA020476.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/100_2820.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/100_2822_0.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/100_2822_0.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/100_2824_0.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/100_2824_0.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P6250258.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P6250258.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC01807.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC00930.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/633927149052088024-Simba.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Hachiko 2.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Hachiko 2.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_0587.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/altea11.JPG
+13:58:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/RINGO-set.JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Riko (4).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Riko (4).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Riko (6).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Riko (6).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Riko (11).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Riko (11).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Riko (14).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Riko (14).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Riko (15).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Riko (15).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Riko (17).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Riko (17).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Riko (20).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Riko (20).JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/sapporo5.JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/sapporo2.JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/sapporo2.JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/sapporo6_0.JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/sapporo6_0.JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/sapporo7.JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/sapporo7.JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DIAMANTE 19.JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DIAMANTE 19.JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Diamante.JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Diamante.JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Diamante2.JPG
+14:00:09	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Diamante2.JPG
+14:04:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC01160.JPG
+14:05:11	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/749-12-NEV_g3773.JPG
+14:09:06	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/CIMG3235.JPG
+14:09:06	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_9636.JPG
+14:09:06	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_9634.JPG
+14:09:06	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_9634.JPG
+14:09:06	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_9637.JPG
+14:09:06	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_9637.JPG
+14:09:06	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_9638.JPG
+14:09:06	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_9638.JPG
+14:09:06	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Princesa.JPG
+14:09:06	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Princesa.JPG
+14:10:47	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/0289-12 LUKILUK.JPG
+14:10:49	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/079-12 BETA.JPG
+14:11:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/balto (1).JPG
+14:11:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/balto (1).JPG
+14:11:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/balto (7).JPG
+14:11:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/balto (7).JPG
+14:11:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSCF8020.JPG
+14:11:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSCF8020.JPG
+14:11:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/ALASKA  (6).JPG
+14:11:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/ALASKA  (6).JPG
+14:11:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/alaska (5).JPG
+14:11:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/alaska (5).JPG
+14:11:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Brutus_02.JPG
+14:12:47	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/yupi.JPG
+14:19:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/patitas.JPG
+14:21:04	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PA200177.JPG
+14:21:13	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/SISO1.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC01785.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/LUCAS_8-5-10_(4).JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/LUCAS_8-5-10_(4).JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/molly2.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/molly2.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_2279 Murfy (3).JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_2279 Murfy (1).JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_2279 Murfy (1).JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_0065-1.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_0067-1.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_0067-1.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_0077-1.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_0077-1.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Niño 9_0.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/niño_1.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/niño_1.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/niño (2)_0.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/niño (2)_0.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/niño (4).JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/niño (4).JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/niño (5)_0.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/niño (5)_0.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/niño (13).JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/niño (13).JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/gordi%2Cdurmien.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/gordi%2Cdurmien.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Gordi1.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Gordi1.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Gordi2.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Gordi2.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P2131495.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P2131495.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P2131497.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P2131497.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/yuste brazos.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/yuste cuerpo.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/yuste cuerpo.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/sentado 6 meses.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/sentado 6 meses.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/tendido 6 meses.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/tendido 6 meses.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/yuste 6 meses.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/yuste 6 meses.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/cara 6 meses.JPG
+14:21:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/cara 6 meses.JPG
+14:21:56	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/anuncio/chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/numbers_common_active_icon_set.gif (from old.nordicosenadopcion.com/anuncio/98)
+14:21:56	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/anuncio/chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/numbers_common_inactive_icon_set.gif (from old.nordicosenadopcion.com/anuncio/98)
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PA190575.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PA190578.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PA190578.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PA190581.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PA190581.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PA190584.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PA190584.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/147.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/147.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/149.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/149.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PA020476.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PA020465.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PA020465.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PA020474.JPG
+14:21:56	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PA020474.JPG
+14:21:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Mochila13.JPG
+14:21:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Mochila13.JPG
+14:21:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Sudaderas19.JPG
+14:21:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Sudaderas19.JPG
+14:21:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/CamisetasM1.JPG
+14:21:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/CamisetasM1.JPG
+14:21:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Camisetas23.JPG
+14:21:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Camisetas23.JPG
+14:21:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/CamisetasH27.JPG
+14:21:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/CamisetasH27.JPG
+14:22:13	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/b4  nicoletta 5D4U0014.JPG
+14:22:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/341b.JPG
+14:24:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC01160.JPG
+14:27:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC00141Scooby.JPG
+14:27:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC00141Scooby.JPG
+14:27:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC00164Zorba.JPG
+14:27:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC00164Zorba.JPG
+14:30:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC03796.JPG
+14:30:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC03796.JPG
+14:30:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC03801.JPG
+14:30:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC03801.JPG
+14:30:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/0289-12 LUKILUK.JPG
+14:30:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/079-12 BETA.JPG
+14:31:34	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P120522-03_ORO_d.JPG
+14:33:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/yupi.JPG
+14:36:41	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/nueva familia de king.JPG
+14:40:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_5714.JPG
+14:46:41	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/patitas.JPG
+14:46:41	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PA200177.JPG
+14:46:41	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/SISO1.JPG
+14:46:41	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/SISO2.JPG
+14:46:41	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/SISO2.JPG
+14:46:41	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/node/chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/numbers_common_active_icon_set.gif (from old.nordicosenadopcion.com/node/98)
+14:46:41	Error: 	"Not Found" (404) at link old.nordicosenadopcion.com/node/chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/numbers_common_inactive_icon_set.gif (from old.nordicosenadopcion.com/node/98)
+14:46:41	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/b4  nicoletta 5D4U0014.JPG
+14:46:41	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/341b.JPG
+14:50:41	Warning: 	Retry after error -4 (No data (connection closed)) at link old.nordicosenadopcion.com/node/982 (from old.nordicosenadopcion.com/anuncio/982)
+14:52:10	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_5425_1.JPG
+14:52:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_5574_1.JPG
+14:57:31	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P120522-03_ORO_d.JPG
+14:57:31	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P120522-03_ORO_b.JPG
+14:57:31	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P120522-03_ORO_b.JPG
+14:57:31	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P120522-03_ORO_c.JPG
+14:57:31	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P120522-03_ORO_c.JPG
+14:58:25	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Kovu (3).JPG
+14:59:37	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/nueva familia de king.JPG
+15:04:33	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/1.JPG
+15:05:37	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/cachorrito de husky.JPG
+15:08:49	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Bianca6.JPG
+15:09:26	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/TALLARIN.JPG
+15:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P1010449.JPG
+15:14:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_5714.JPG
+15:15:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/102_1184.JPG
+15:16:25	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC08621.JPG
+15:18:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_5425_1.JPG
+15:18:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_5574_1.JPG
+15:18:35	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC08283.JPG
+15:19:11	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/lasy.JPG
+15:19:31	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC02759_0.JPG
+15:19:49	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/kenia1.JPG
+15:19:59	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/pablo2.JPG
+15:21:05	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/chester.JPG
+15:21:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSCI1898.JPG
+15:22:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Kovu (3).JPG
+15:23:01	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Angy. Husky 058.JPG
+15:23:05	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Astor. Husky 014.JPG
+15:23:19	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Meryl 1. Husky 008.JPG
+15:23:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Cristi 2. Husky 022.JPG
+15:30:07	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/siberia6.JPG
+15:30:07	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/siberia6.JPG
+15:30:07	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/1.JPG
+15:30:07	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/cachorrito de husky.JPG
+15:34:47	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_3436.JPG
+15:36:19	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/04 - SACHA.JPG
+15:37:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P5240005.JPG
+15:38:36	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Ref. 20.3.JPG
+15:39:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Bianca6.JPG
+15:39:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/TALLARIN.JPG
+15:39:21	Warning: 	Retry after error -4 (No data (connection closed)) at link old.nordicosenadopcion.com/node/320 (from old.nordicosenadopcion.com/anuncio/320)
+15:39:21	Warning: 	Retry after error -4 (No data (connection closed)) at link old.nordicosenadopcion.com/sites/default/files/a_3301297014587.jpg (from old.nordicosenadopcion.com/anuncio/320)
+15:39:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DOMO CON GATOS.JPG
+15:39:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DOMO CON GATOS.JPG
+15:39:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P1010449.JPG
+15:39:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/102_1184.JPG
+15:39:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC08621.JPG
+15:39:58	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSCN5879.JPG
+15:42:03	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/MED_imagenes_imagen_16265_118.JPG
+15:42:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC08283.JPG
+15:42:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/lasy.JPG
+15:42:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC02759_0.JPG
+15:42:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/kenia1.JPG
+15:42:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/kenia2.JPG
+15:42:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/kenia2.JPG
+15:42:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/kenia3.JPG
+15:42:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/kenia3.JPG
+15:42:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/pablo2.JPG
+15:42:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/pablo1.JPG
+15:42:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/pablo1.JPG
+15:42:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Pablo3.JPG
+15:42:24	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Pablo3.JPG
+15:45:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/chester.JPG
+15:45:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSCI1898.JPG
+15:45:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P20-02-12_13.05.JPG
+15:45:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P20-02-12_13.05.JPG
+15:45:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P20-02-12_13.15.JPG
+15:45:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P20-02-12_13.15.JPG
+15:45:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P20-02-12_15.00.JPG
+15:45:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P20-02-12_15.00.JPG
+15:49:41	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSCN2355.JPG
+15:51:00	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Angy. Husky 058.JPG
+15:51:00	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Astor. Husky 014.JPG
+15:51:00	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Meryl 1. Husky 008.JPG
+15:51:00	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC00959.JPG
+15:51:00	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC00959.JPG
+15:51:00	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Cristi 2. Husky 022.JPG
+15:51:00	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Cristi 4. Husky 010.JPG
+15:51:00	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Cristi 4. Husky 010.JPG
+15:51:13	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/fukushima3.JPG
+15:51:35	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/gringo1.JPG
+15:51:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/pita1.JPG
+15:52:07	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P3310006.JPG
+15:54:07	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Eladia05.JPG
+15:54:25	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/b22 Yil es una cachorro de Alaska muy cariñosete.3.JPG
+15:56:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_3436.JPG
+15:56:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_3440.JPG
+15:56:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_3440.JPG
+15:56:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/WIKY- CACHORRO.JPG
+15:56:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/WIKY- CACHORRO.JPG
+15:56:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/wiky adorable que eres.JPG
+15:56:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/wiky adorable que eres.JPG
+15:56:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/WWW.JPG
+15:56:57	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/WWW.JPG
+15:58:53	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/KLAUS 2.JPG
+16:01:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/silver01.JPG
+16:02:13	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/1_0.JPG
+16:02:54	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Balto.JPG
+16:03:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/perritos30.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/04 - SACHA.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/01 - SACHA.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/01 - SACHA.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/02 - SACHA.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/02 - SACHA.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P5240005.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PIC_0011.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PIC_0011.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PIC_0012.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PIC_0012.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Ref. 20.3.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSCN5879.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSCN5873.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSCN5873.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSCN5878.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSCN5878.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSCN5881.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSCN5881.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSCN5885.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSCN5885.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/ZAQUEN.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/ZAQUEN.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/MED_imagenes_imagen_16265_118.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/MED_imagenes_imagen_16262_091.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/MED_imagenes_imagen_16262_091.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/MED_imagenes_imagen_16263_099.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/MED_imagenes_imagen_16263_099.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/MED_imagenes_imagen_16266_131.JPG
+16:04:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/MED_imagenes_imagen_16266_131.JPG
+16:05:23	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PB120011.JPG
+16:05:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC05568.JPG
+16:05:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC03279.JPG
+16:07:13	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/_DSC1037.JPG
+16:07:19	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC_6800.JPG
+16:07:29	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSCN5816.JPG
+16:07:33	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/2.JPG
+16:08:39	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC04218.JPG
+16:08:39	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC04218.JPG
+16:08:39	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC04228.JPG
+16:08:39	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC04228.JPG
+16:08:39	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC04227_0.JPG
+16:08:39	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC04227_0.JPG
+16:08:39	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSCN2355.JPG
+16:08:39	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/hembra.JPG
+16:08:39	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/hembra.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/fukushima3.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/fukushima4.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/fukushima4.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/fukushima2.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/fukushima2.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/fukushima1.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/fukushima1.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/gringo1.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/gringo2.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/gringo2.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/gringo3.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/gringo3.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/pita1.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/pita2.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/pita2.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/pita3.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/pita3.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P3310006.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P3310007.JPG
+16:12:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P3310007.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Eladia05.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Eladia02.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Eladia02.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Eladia03.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Eladia03.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Eladia06.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Eladia06.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Eladia07.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Eladia07.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/b22 Yil es una cachorro de Alaska muy cariñosete.3.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/b22 Yil es una cachorro de Alaska muy cariñosete..JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/b22 Yil es una cachorro de Alaska muy cariñosete..JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P5109952.b22 Yil es una cachorro de Alaska muy cariñosete.2_0.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P5109952.b22 Yil es una cachorro de Alaska muy cariñosete.2_0.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P5109958_0.JPG
+16:16:45	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P5109958_0.JPG
+16:19:07	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PIC_8891.JPG
+16:20:30	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/KLAUS 2.JPG
+16:20:30	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/klaus.JPG
+16:20:30	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/klaus.JPG
+16:20:30	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/klaus 1.JPG
+16:20:30	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/klaus 1.JPG
+16:21:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Blondy1.JPG
+16:25:00	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/MOLTO.JPG
+16:25:30	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/MATI (3).JPG
+16:26:05	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/benzo.JPG
+16:28:23	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_6702.JPG
+16:28:47	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P1160782.JPG
+16:29:39	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/FIBY 3.JPG
+16:29:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/lasy en el rio de navaluenga.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/silver01.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/silver02.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/silver02.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/1_0.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/5.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/5.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Balto.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Balto1.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Balto1.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/perritos30.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/perritos25.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/perritos25.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/perritos31.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/perritos31.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/perritos42.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/perritos42.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P9110590.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P9110590.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PB120011.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PB120002.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PB120002.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC05568.JPG
+16:30:43	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC03279.JPG
+16:31:27	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/MED_imagenes_imagen_14358_853.JPG
+16:35:59	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/_DSC1037.JPG
+16:35:59	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/_DSC1024.JPG
+16:35:59	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/_DSC1024.JPG
+16:35:59	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC_6800.JPG
+16:35:59	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC_6799.JPG
+16:35:59	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC_6799.JPG
+16:35:59	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSCN5816.JPG
+16:35:59	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/2.JPG
+16:38:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/nico3.JPG
+16:38:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/nico3.JPG
+16:38:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/NICO2_0.JPG
+16:38:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/NICO2_0.JPG
+16:39:01	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC03352.JPG
+16:43:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC03702.JPG
+16:43:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC03702.JPG
+16:43:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC03704.JPG
+16:43:15	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC03704.JPG
+16:46:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PIC_8891.JPG
+16:46:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/HUSKY HEMBRA BLANCA.1año.PRECIOSA%21.JPG
+16:46:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/HUSKY HEMBRA BLANCA.1año.PRECIOSA%21.JPG
+16:46:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PIC_8885.JPG
+16:46:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PIC_8885.JPG
+16:46:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PIC_8893.JPG
+16:46:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PIC_8893.JPG
+16:46:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PIC_8895.JPG
+16:46:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PIC_8895.JPG
+16:46:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PIC_8898.JPG
+16:46:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PIC_8898.JPG
+16:48:34	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/seg ad alemania 2 marzo 12 a traves kirsten.JPG
+16:48:34	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/seg ad alemania 2 marzo 12 a traves kirsten.JPG
+16:48:34	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Blondy1.JPG
+16:48:34	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Blondy2.JPG
+16:48:34	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Blondy2.JPG
+16:48:39	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/SAM_0111.JPG
+16:48:59	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/tn_20100608090713100_0249%2C.JPG
+16:51:21	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PERRO N-178.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/MOLTO.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/MATI (3).JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/MATI (1).JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/MATI (1).JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/benzo.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_6702.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_6695.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_6695.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_6696.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_6696.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_6697.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_6697.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P1160782.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P1020238.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P1020238.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/P1020258.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/P1020258.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/FIBY 3.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/FIBY 2.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/FIBY 2.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/FIBY 1.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/FIBY 1.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/lasy en el rio de navaluenga.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Rio 39(lassie).JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Rio 39(lassie).JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/MED_imagenes_imagen_14358_853.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/MED_imagenes_imagen_14361_889.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/MED_imagenes_imagen_14361_889.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/MED_imagenes_imagen_16802_729.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/MED_imagenes_imagen_16802_729.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_5988.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_5988.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_5990.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_5990.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_5991.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_5991.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_5995.JPG
+16:56:52	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_5995.JPG
+16:57:03	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PICT5400.JPG
+16:59:35	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSCF1135.JPG
+16:59:55	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PICT5539.JPG
+17:03:01	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/dog1.JPG
+17:05:25	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC03352.JPG
+17:05:25	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSC03355.JPG
+17:05:25	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSC03355.JPG
+17:05:51	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PICT4760_0.JPG
+17:07:32	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_2316.JPG
+17:07:32	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_2316.JPG
+17:07:32	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/IMG_2318.JPG
+17:07:32	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/IMG_2318.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/SAM_0111.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/tn_20100608090713100_0249%2C.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/tn_20100608090713P8315035%2C.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/tn_20100608090713P8315035%2C.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/tn_20100608090713110_0196(1).JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/tn_20100608090713110_0196(1).JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/tn_20100608090713110_0197(1).JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/tn_20100608090713110_0197(1).JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PERRO N-178.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Ref. 293.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Ref. 293.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/Ref. 293 - hembra.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/Ref. 293 - hembra.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PICT5400.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PICT5397.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PICT5397.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PICT5399.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PICT5399.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSCF1135.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSCF1121.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSCF1121.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/DSCF1159.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/DSCF1159.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PICT5539.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PICT5545.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PICT5545.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PICT5533.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PICT5533.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PICT5536.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PICT5536.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/dog1.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/dog2.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/dog2.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PICT4760_0.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PICT4761.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PICT4761.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PICT4762.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PICT4762.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/PICT4767.JPG
+17:08:17	Warning: 	File not parsed, looks like binary: old.nordicosenadopcion.com/sites/default/files/styles/medium/public/PICT4767.JPG
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 hours 39 minutes 12 seconds : 8437 links scanned, 8414 files written (451956872 bytes overall) [401142517 bytes received at 19710 bytes/sec], 76389998 bytes transferred using HTTP compression in 2991 files, ratio 28%, 6.9 requests per connection
+(19 errors, 600 warnings, 0 messages)
